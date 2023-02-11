@@ -37,6 +37,10 @@ quite different results (such as Methods 6 and 7). For each variable, we count i
 frequency of occurrences indicates the importance of the variable. According to a majority voting strategy, variables that are 
 selected by at least five out of nine ranking methods will be kept. In the example shown in Figure 3, variables #1-4 are selected 
 to construct a prediction model.
+
+![image](https://github.com/Han-Yuan-Med/comparison/blob/main/ensemble.jpg)
+Figure 1: A hypothetical example to illustrate the mechanism of majority voting-based ensemble learning for model selection.
+
 #### References
 [1] Student: The Probable Error of a Mean. Biometrika 1908, 6(1):1-25.  
 [2] Wilcoxon F: Probability Tables for Individual Comparisons by Ranking Methods. Biometrics 1947, 3(3):119-122.  
